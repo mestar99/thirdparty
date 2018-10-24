@@ -16,3 +16,18 @@
 [submodule "glibc"]
 	path = glibc
 	url = git://sourceware.org/git/glibc.git
+[submodule "git-multimail"]
+	path = git-multimail
+	url = git@github.com:git-multimail/git-multimail.git
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "musl"]
+	path = musl
+	url = git://git.musl-libc.org/musl
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:jenkinsci/jenkins.git
+[submodule "boost"]
+	path = boost
+	url = git@github.com:boostorg/boost.git
