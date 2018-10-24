@@ -52,3 +52,60 @@
 [submodule "gcovr"]
 	path = gcovr
 	url = git@github.com:gcovr/gcovr.git
+[submodule "cmake-modules"]
+	path = cmake-modules
+	url = git@github.com:bilke/cmake-modules.git
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "lcov-to-cobertura-xml"]
+	path = lcov-to-cobertura-xml
+	url = git@github.com:eriwen/lcov-to-cobertura-xml.git
+[submodule "jenkins-ctest-plugin"]
+	path = jenkins-ctest-plugin
+	url = https://github.com/rpavlik/jenkins-ctest-plugin.git
+[submodule "inline-source"]
+	path = inline-source
+	url = git@github.com:popeindustries/inline-source.git
+[submodule "inline-source-cli"]
+	path = inline-source-cli
+	url = git@github.com:popeindustries/inline-source-cli.git
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/Kitware/CMake.git
+[submodule "coreutils"]
+	path = coreutils
+	url = git://git.savannah.gnu.org/coreutils.git
+[submodule "gnulib"]
+	path = gnulib
+	url = git://git.savannah.gnu.org/gnulib.git
+[submodule "linux"]
+	path = linux
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "azure-pipelines-agent"]
+	path = azure-pipelines-agent
+	url = git@github.com:Microsoft/azure-pipelines-agent.git
+[submodule "typescript.el"]
+	path = typescript.el
+	url = git@github.com:ananthakumaran/typescript.el.git
+[submodule "jenkins-plugins/git-plugin"]
+	path = jenkins-plugins/git-plugin
+	url = git@github.com:jenkinsci/git-plugin.git
+[submodule "jenkins-plugins/tfs-plugin"]
+	path = jenkins-plugins/tfs-plugin
+	url = git@github.com:jenkinsci/tfs-plugin.git
+[submodule "jenkins-plugins/generic-webhook-trigger-plugin"]
+	path = jenkins-plugins/generic-webhook-trigger-plugin
+	url = git@github.com:jenkinsci/generic-webhook-trigger-plugin.git
+[submodule "jenkins-plugins/scm-api-plugin"]
+	path = jenkins-plugins/scm-api-plugin
+	url = git@github.com:jenkinsci/scm-api-plugin.git
+[submodule "jenkins-plugins/git-client-plugin"]
+	path = jenkins-plugins/git-client-plugin
+	url = git@github.com:jenkinsci/git-client-plugin.git
+[submodule "jenkins-plugins/script-security-plugin"]
+	path = jenkins-plugins/script-security-plugin
+	url = git@github.com:jenkinsci/script-security-plugin.git
+[submodule "jenkins-plugins/cobertura-plugin"]
+	path = jenkins-plugins/cobertura-plugin
+	url = git@github.com:jenkinsci/cobertura-plugin.git
