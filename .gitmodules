@@ -1,3 +1,18 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/curl/curl.git
+[submodule "grpc"]
+	path = grpc
+	url = git@github.com:grpc/grpc.git
+[submodule "protobuf"]
+	path = protobuf
+	url = git@github.com:google/protobuf.git
+[submodule "googleapis"]
+	path = googleapis
+	url = git@github.com:googleapis/googleapis.git
+[submodule "libcxx"]
+	path = libcxx
+	url = https://git.llvm.org/git/libcxx
+[submodule "glibc"]
+	path = glibc
+	url = git://sourceware.org/git/glibc.git
