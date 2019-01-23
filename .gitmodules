@@ -109,3 +109,6 @@
 [submodule "jenkins-plugins/cobertura-plugin"]
 	path = jenkins-plugins/cobertura-plugin
 	url = git@github.com:jenkinsci/cobertura-plugin.git
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
