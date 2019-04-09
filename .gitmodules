@@ -121,3 +121,9 @@
 [submodule "nghttp2"]
 	path = nghttp2
 	url = https://github.com/nghttp2/nghttp2.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:kubernetes/kubernetes.git
+[submodule "go"]
+	path = go
+	url = https://go.googlesource.com/go
