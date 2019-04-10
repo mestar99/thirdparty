@@ -127,3 +127,6 @@
 [submodule "go"]
 	path = go
 	url = https://go.googlesource.com/go
+[submodule "cpp-cheat"]
+	path = cpp-cheat
+	url = git@github.com:cirosantilli/cpp-cheat.git
