@@ -130,3 +130,6 @@
 [submodule "cpp-cheat"]
 	path = cpp-cheat
 	url = git@github.com:cirosantilli/cpp-cheat.git
+[submodule "base64"]
+	path = base64
+	url = git@github.com:aklomp/base64.git
