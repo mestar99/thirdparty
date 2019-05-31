@@ -133,3 +133,6 @@
 [submodule "base64"]
 	path = base64
 	url = git@github.com:aklomp/base64.git
+[submodule "cpprestsdk"]
+	path = cpprestsdk
+	url = git@github.com:microsoft/cpprestsdk.git
