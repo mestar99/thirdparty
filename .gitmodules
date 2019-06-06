@@ -139,3 +139,6 @@
 [submodule "google-cloud-cpp"]
 	path = google-cloud-cpp
 	url = git@github.com:googleapis/google-cloud-cpp.git
+[submodule "conan"]
+	path = conan
+	url = git@github.com:conan-io/conan.git
