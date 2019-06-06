@@ -136,3 +136,6 @@
 [submodule "cpprestsdk"]
 	path = cpprestsdk
 	url = git@github.com:microsoft/cpprestsdk.git
+[submodule "google-cloud-cpp"]
+	path = google-cloud-cpp
+	url = git@github.com:googleapis/google-cloud-cpp.git
