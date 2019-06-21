@@ -142,3 +142,6 @@
 [submodule "conan"]
 	path = conan
 	url = git@github.com:conan-io/conan.git
+[submodule "libssh2"]
+	path = libssh2
+	url = git@github.com:libssh2/libssh2.git
