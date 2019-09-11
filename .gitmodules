@@ -148,3 +148,6 @@
 [submodule "OpendTect"]
 	path = OpendTect
 	url = git@github.com:OpendTect/OpendTect.git
+[submodule "fmt"]
+	path = fmt
+	url = git@github.com:fmtlib/fmt.git
