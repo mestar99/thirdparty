@@ -154,3 +154,21 @@
 [submodule "a-tdd"]
 	path = a-tdd
 	url = git@github.com:philsquared/a-tdd.git
+[submodule "kaitai_struct"]
+	path = kaitai_struct
+	url = https://github.com/kaitai-io/kaitai_struct.git
+[submodule "avro"]
+	path = avro
+	url = git@github.com:apache/avro.git
+[submodule "open-vds"]
+	path = open-vds
+	url = git@community.opengroup.org:osdu/open-vds.git
+[submodule "draft"]
+	path = draft
+	url = git@github.com:Eelis/draft.git
+[submodule "mdspan"]
+	path = mdspan
+	url = git@github.com:kokkos/mdspan.git
+[submodule "gce_metadata_server"]
+	path = gce_metadata_server
+	url = git@github.com:salrashid123/gce_metadata_server.git
