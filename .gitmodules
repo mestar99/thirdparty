@@ -172,3 +172,21 @@
 [submodule "gce_metadata_server"]
 	path = gce_metadata_server
 	url = git@github.com:salrashid123/gce_metadata_server.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:openssl/openssl.git
+[submodule "BearSSL"]
+	path = BearSSL
+	url = https://www.bearssl.org/git/BearSSL
+[submodule "gnutls"]
+	path = gnutls
+	url = https://github.com/gnutls/gnutls
+[submodule "boringssl"]
+	path = boringssl
+	url = https://boringssl.googlesource.com/boringssl
+[submodule "googleapis-cpp-cmakefiles"]
+	path = googleapis-cpp-cmakefiles
+	url = git@github.com:googleapis/cpp-cmakefiles.git
+[submodule "googleapis-google-cloud-cpp-common"]
+	path = googleapis-google-cloud-cpp-common
+	url = git@github.com:googleapis/google-cloud-cpp-common.git
